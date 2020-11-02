@@ -2,6 +2,7 @@ const express = require("express");
 const mongoose = require("mongoose");
 const app = express();
 const port = 3000;
+const Store = require("./api/models/store");
 
 mongoose.connect(
   "mongodb+srv://Soloman:@cluster0.v31tf.mongodb.net/<dbname>?retryWrites=true&w=majority",
