@@ -1,0 +1,5527 @@
+[{
+  "recommendation": {},
+  "storeNumber": "22162-218186",
+  "id": "1007338",
+  "name": "1900 Sixteenth St.",
+  "phoneNumber": "3036233414",
+  "coordinates": {
+    "latitude": 39.753208,
+    "longitude": -105.002913
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "1900 Sixteenth St.",
+    "streetAddressLine2": "100",
+    "streetAddressLine3": null,
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "802025120"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "CO",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 6:30 PM",
+  "addressLines": ["1900 Sixteenth St.", "100", "Denver, CO 80202"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "5:00 AM to 6:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "5:00 AM to 6:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "6:00 AM to 6:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "6:00 AM to 6:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "5:00 AM to 6:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "5:00 AM to 6:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "5:00 AM to 6:30 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "WF",
+    "name": "Wireless Hotspot"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "XO",
+    "name": "Mobile Order and Pay"
+  }, {
+    "code": "MX",
+    "name": "Music Experience"
+  }, {
+    "code": "NB",
+    "name": "Nitro Cold Brew"
+  }, {
+    "code": "BE",
+    "name": "Blonde Espresso"
+  }, {
+    "code": "SE",
+    "name": "Non-SVC MOP"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "LU",
+    "name": "Lunch"
+  }, {
+    "code": "RW",
+    "name": "My Starbucks Rewards"
+  }, {
+    "code": "UC",
+    "name": "tbd - UCP"
+  }],
+  "slug": "1900-sixteenth-st-1900-sixteenth-st-denver-co-802025120-us"
+}, {
+  "recommendation": {},
+  "storeNumber": "24712-197869",
+  "id": "1010325",
+  "name": "King Soopers Store #115 Denver",
+  "phoneNumber": "303-678-2433",
+  "coordinates": {
+    "latitude": 39.757338,
+    "longitude": -104.998693
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "1950 Chestnut Pl",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "80202"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "LS",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 8:00 PM",
+  "addressLines": ["1950 Chestnut Pl", "Denver, CO 80202"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "CD",
+    "name": "Mobile Payment"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "RW",
+    "name": "My Starbucks Rewards"
+  }],
+  "slug": "king-soopers-store-115-denver-1950-chestnut-pl-denver-co-80202-us"
+}, {
+  "recommendation": {},
+  "storeNumber": "5803-15714",
+  "id": "14867",
+  "name": "16th St. & Blake",
+  "phoneNumber": "7209043650",
+  "coordinates": {
+    "latitude": 39.750219,
+    "longitude": -104.9992
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "1490 16th Street",
+    "streetAddressLine2": null,
+    "streetAddressLine3": "16 Market Square",
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "802021320"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "CO",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 6:00 PM",
+  "addressLines": ["1490 16th Street", "Denver, CO 80202"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "5:30 AM to 6:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "5:30 AM to 6:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "6:00 AM to 6:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "6:00 AM to 6:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "5:30 AM to 6:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "5:30 AM to 6:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "5:30 AM to 6:00 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "CD",
+    "name": "Mobile Payment"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "GO",
+    "name": "Starbucks Wi-Fi"
+  }, {
+    "code": "XO",
+    "name": "Mobile Order and Pay"
+  }, {
+    "code": "MX",
+    "name": "Music Experience"
+  }, {
+    "code": "NB",
+    "name": "Nitro Cold Brew"
+  }, {
+    "code": "BE",
+    "name": "Blonde Espresso"
+  }, {
+    "code": "SE",
+    "name": "Non-SVC MOP"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "LU",
+    "name": "Lunch"
+  }, {
+    "code": "PS",
+    "name": "Playbook Store System"
+  }, {
+    "code": "UC",
+    "name": "tbd - UCP"
+  }, {
+    "code": "UE",
+    "name": "tbd - Uber Eats"
+  }],
+  "slug": "16th-st-blake-1490-16th-street-16-market-square-denver-co-802021"
+}, {
+  "recommendation": {},
+  "storeNumber": "6657-73731",
+  "id": "12186",
+  "name": "Writer Square",
+  "phoneNumber": "720-932-6574",
+  "coordinates": {
+    "latitude": 39.748592,
+    "longitude": -104.996992
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "1512 Larimer Street",
+    "streetAddressLine2": null,
+    "streetAddressLine3": "Writer's Square",
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "802021610"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "CO",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 8:00 PM",
+  "addressLines": ["1512 Larimer Street", "Denver, CO 80202"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "5:30 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "5:30 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "Closed",
+    "open": false,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "Closed",
+    "open": false,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "Closed",
+    "open": false,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "CD",
+    "name": "Mobile Payment"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "GO",
+    "name": "Starbucks Wi-Fi"
+  }, {
+    "code": "XO",
+    "name": "Mobile Order and Pay"
+  }, {
+    "code": "MX",
+    "name": "Music Experience"
+  }, {
+    "code": "BE",
+    "name": "Blonde Espresso"
+  }, {
+    "code": "SE",
+    "name": "Non-SVC MOP"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "LU",
+    "name": "Lunch"
+  }, {
+    "code": "PS",
+    "name": "Playbook Store System"
+  }, {
+    "code": "UC",
+    "name": "tbd - UCP"
+  }],
+  "slug": "writer-square-1512-larimer-street-writers-square-denver-co-80202"
+}, {
+  "recommendation": {},
+  "storeNumber": "24838-238076",
+  "id": "1012255",
+  "name": "17th and Lawrence",
+  "phoneNumber": "303-242-4741",
+  "coordinates": {
+    "latitude": 39.749442,
+    "longitude": -104.994998
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "1125 17th Street",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "802022025"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "CO",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 6:30 PM",
+  "addressLines": ["1125 17th Street", "Denver, CO 80202"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "5:30 AM to 6:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "5:30 AM to 6:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "Closed",
+    "open": false,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "Closed",
+    "open": false,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "5:30 AM to 6:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "5:30 AM to 6:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "5:30 AM to 6:30 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "CD",
+    "name": "Mobile Payment"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "GO",
+    "name": "Starbucks Wi-Fi"
+  }, {
+    "code": "XO",
+    "name": "Mobile Order and Pay"
+  }, {
+    "code": "MX",
+    "name": "Music Experience"
+  }, {
+    "code": "NB",
+    "name": "Nitro Cold Brew"
+  }, {
+    "code": "BE",
+    "name": "Blonde Espresso"
+  }, {
+    "code": "SE",
+    "name": "Non-SVC MOP"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "LU",
+    "name": "Lunch"
+  }, {
+    "code": "RW",
+    "name": "My Starbucks Rewards"
+  }, {
+    "code": "PS",
+    "name": "Playbook Store System"
+  }, {
+    "code": "UC",
+    "name": "tbd - UCP"
+  }],
+  "slug": "17th-and-lawrence-1125-17th-street-denver-co-802022025-us"
+}, {
+  "recommendation": {},
+  "storeNumber": "248-135",
+  "id": "18413",
+  "name": "Larimer Square",
+  "phoneNumber": "(303) 446-8534",
+  "coordinates": {
+    "latitude": 39.747441,
+    "longitude": -104.999457
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "1406 Larimer St",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "802021705"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "CO",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 8:00 PM",
+  "addressLines": ["1406 Larimer St", "Denver, CO 80202"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "5:30 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "5:30 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "6:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "5:30 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "5:30 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "5:30 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "GO",
+    "name": "Starbucks Wi-Fi"
+  }, {
+    "code": "XO",
+    "name": "Mobile Order and Pay"
+  }, {
+    "code": "MX",
+    "name": "Music Experience"
+  }, {
+    "code": "NB",
+    "name": "Nitro Cold Brew"
+  }, {
+    "code": "BE",
+    "name": "Blonde Espresso"
+  }, {
+    "code": "SE",
+    "name": "Non-SVC MOP"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "LU",
+    "name": "Lunch"
+  }, {
+    "code": "PS",
+    "name": "Playbook Store System"
+  }, {
+    "code": "UC",
+    "name": "tbd - UCP"
+  }],
+  "slug": "larimer-square-1406-larimer-st-denver-co-802021705-us"
+}, {
+  "recommendation": {},
+  "storeNumber": "6342-10647",
+  "id": "11093",
+  "name": "REI Denver",
+  "phoneNumber": "303/477-5445",
+  "coordinates": {
+    "latitude": 39.754915,
+    "longitude": -105.009108
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "1416 Platte River",
+    "streetAddressLine2": "Suite A",
+    "streetAddressLine3": "REI",
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "802021120"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "CO",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 9:00 PM",
+  "addressLines": ["1416 Platte River", "Suite A", "Denver, CO 80202"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "5:30 AM to 9:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "5:30 AM to 9:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "6:00 AM to 9:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "6:30 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "5:30 AM to 9:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "5:30 AM to 9:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "5:30 AM to 9:00 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "WF",
+    "name": "Wireless Hotspot"
+  }, {
+    "code": "VS",
+    "name": "Verismo"
+  }, {
+    "code": "CD",
+    "name": "Mobile Payment"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "XO",
+    "name": "Mobile Order and Pay"
+  }, {
+    "code": "MX",
+    "name": "Music Experience"
+  }, {
+    "code": "NB",
+    "name": "Nitro Cold Brew"
+  }, {
+    "code": "BE",
+    "name": "Blonde Espresso"
+  }, {
+    "code": "SE",
+    "name": "Non-SVC MOP"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "LU",
+    "name": "Lunch"
+  }, {
+    "code": "UC",
+    "name": "tbd - UCP"
+  }],
+  "slug": "rei-denver-1416-platte-river-rei-denver-co-802021120-us"
+}, {
+  "recommendation": {},
+  "storeNumber": "5392-873",
+  "id": "13338",
+  "name": "16th Street & Curtis",
+  "phoneNumber": "(303) 454-9852",
+  "coordinates": {
+    "latitude": 39.746923,
+    "longitude": -104.99481
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "934 Sixteenth Street",
+    "streetAddressLine2": null,
+    "streetAddressLine3": "16th & Curtis",
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "802022902"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "CO",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 6:00 PM",
+  "addressLines": ["934 Sixteenth Street", "Denver, CO 80202"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "6:00 AM to 6:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "6:00 AM to 6:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "6:00 AM to 6:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "6:00 AM to 6:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "6:00 AM to 6:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "6:00 AM to 6:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "6:00 AM to 6:00 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "CD",
+    "name": "Mobile Payment"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "GO",
+    "name": "Starbucks Wi-Fi"
+  }, {
+    "code": "XO",
+    "name": "Mobile Order and Pay"
+  }, {
+    "code": "MX",
+    "name": "Music Experience"
+  }, {
+    "code": "NB",
+    "name": "Nitro Cold Brew"
+  }, {
+    "code": "BE",
+    "name": "Blonde Espresso"
+  }, {
+    "code": "SE",
+    "name": "Non-SVC MOP"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "LU",
+    "name": "Lunch"
+  }, {
+    "code": "PS",
+    "name": "Playbook Store System"
+  }, {
+    "code": "UC",
+    "name": "tbd - UCP"
+  }, {
+    "code": "UE",
+    "name": "tbd - Uber Eats"
+  }],
+  "slug": "16th-street-curtis-934-sixteenth-street-16th-curtis-denver-co-8020229"
+}, {
+  "recommendation": {},
+  "storeNumber": "78024-107376",
+  "id": "6919",
+  "name": "The Curtis Hotel Lobby",
+  "phoneNumber": "720-889-4730",
+  "coordinates": {
+    "latitude": 39.745883,
+    "longitude": -104.997631
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "1405 Curtis St",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "802022349"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "LS",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 2:00 PM",
+  "addressLines": ["1405 Curtis St", "Denver, CO 80202"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "7:00 AM to 2:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "7:00 AM to 2:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "Closed",
+    "open": false,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "Closed",
+    "open": false,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "7:00 AM to 2:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "7:00 AM to 2:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "7:00 AM to 2:00 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "CD",
+    "name": "Mobile Payment"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "NB",
+    "name": "Nitro Cold Brew"
+  }, {
+    "code": "BE",
+    "name": "Blonde Espresso"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "LU",
+    "name": "Lunch"
+  }],
+  "slug": "the-curtis-hotel-lobby-1405-curtis-st-denver-co-802022349-us"
+}, {
+  "recommendation": {},
+  "storeNumber": "27708-240564",
+  "id": "1012629",
+  "name": "Auraria Tivoli - Student Union",
+  "phoneNumber": "3035563700",
+  "coordinates": {
+    "latitude": 39.745265,
+    "longitude": -105.005904
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "900 Auraria Parkway",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "80204"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "LS",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 5:00 PM",
+  "addressLines": ["900 Auraria Parkway", "Denver, CO 80204"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "7:00 AM to 5:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "7:00 AM to 3:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "Closed",
+    "open": false,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "Closed",
+    "open": false,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "7:00 AM to 5:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "7:00 AM to 5:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "7:00 AM to 5:00 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "CD",
+    "name": "Mobile Payment"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "NB",
+    "name": "Nitro Cold Brew"
+  }, {
+    "code": "BE",
+    "name": "Blonde Espresso"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "LU",
+    "name": "Lunch"
+  }],
+  "slug": "auraria-tivoli-student-union-900-auraria-parkway-denver-co-80204-us"
+}, {
+  "recommendation": {},
+  "storeNumber": "75506-33861",
+  "id": "15621",
+  "name": "Hilton Denver Downtown City Center",
+  "phoneNumber": "303-297-1300",
+  "coordinates": {
+    "latitude": 39.747356,
+    "longitude": -104.990433
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "1701 California Street",
+    "streetAddressLine2": null,
+    "streetAddressLine3": "Denver Marriott City Center",
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "802023402"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "LS",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Closes in 42 mins",
+  "addressLines": ["1701 California Street", "Denver, CO 80202"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "6:30 AM to 11:30 AM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "6:30 AM to 11:30 AM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "6:30 AM to 1:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "6:30 AM to 1:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "6:30 AM to 11:30 AM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "6:30 AM to 11:30 AM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "6:30 AM to 11:30 AM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "WF",
+    "name": "Wireless Hotspot"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "BE",
+    "name": "Blonde Espresso"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "LU",
+    "name": "Lunch"
+  }, {
+    "code": "BA",
+    "name": "Bakery"
+  }, {
+    "code": "RW",
+    "name": "My Starbucks Rewards"
+  }],
+  "slug": "hilton-denver-downtown-city-center-1701-california-street-denver-marriott-city-center"
+}, {
+  "recommendation": {},
+  "storeNumber": "10673-100271",
+  "id": "10313",
+  "name": "16th & California- Denver",
+  "phoneNumber": "303-534-1096",
+  "coordinates": {
+    "latitude": 39.745192,
+    "longitude": -104.992455
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "700 16th St.",
+    "streetAddressLine2": "Suite A",
+    "streetAddressLine3": null,
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "802023229"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "CO",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 8:00 PM",
+  "addressLines": ["700 16th St.", "Suite A", "Denver, CO 80202"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "5:30 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "5:30 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "5:30 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "5:30 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "5:30 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "CD",
+    "name": "Mobile Payment"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "GO",
+    "name": "Starbucks Wi-Fi"
+  }, {
+    "code": "XO",
+    "name": "Mobile Order and Pay"
+  }, {
+    "code": "MX",
+    "name": "Music Experience"
+  }, {
+    "code": "NB",
+    "name": "Nitro Cold Brew"
+  }, {
+    "code": "BE",
+    "name": "Blonde Espresso"
+  }, {
+    "code": "SE",
+    "name": "Non-SVC MOP"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "LU",
+    "name": "Lunch"
+  }, {
+    "code": "PS",
+    "name": "Playbook Store System"
+  }, {
+    "code": "UC",
+    "name": "tbd - UCP"
+  }],
+  "slug": "16th-california-denver-700-16th-st-denver-co-802023229-us"
+}, {
+  "recommendation": {},
+  "storeNumber": "6381-25487",
+  "id": "15626",
+  "name": "18th & California",
+  "phoneNumber": "303-382-1236",
+  "coordinates": {
+    "latitude": 39.746592,
+    "longitude": -104.989902
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "633 17th St",
+    "streetAddressLine2": "110",
+    "streetAddressLine3": null,
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "802023660"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "CO",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 5:30 PM",
+  "addressLines": ["633 17th St", "110", "Denver, CO 80202"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "5:30 AM to 5:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "5:30 AM to 5:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "Closed",
+    "open": false,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "Closed",
+    "open": false,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "Closed",
+    "open": false,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "Closed",
+    "open": false,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "Closed",
+    "open": false,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "CD",
+    "name": "Mobile Payment"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "GO",
+    "name": "Starbucks Wi-Fi"
+  }, {
+    "code": "XO",
+    "name": "Mobile Order and Pay"
+  }, {
+    "code": "MX",
+    "name": "Music Experience"
+  }, {
+    "code": "NB",
+    "name": "Nitro Cold Brew"
+  }, {
+    "code": "BE",
+    "name": "Blonde Espresso"
+  }, {
+    "code": "SE",
+    "name": "Non-SVC MOP"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "LU",
+    "name": "Lunch"
+  }, {
+    "code": "UC",
+    "name": "tbd - UCP"
+  }],
+  "slug": "18th-california-633-17th-st-denver-co-802023660-us"
+}, {
+  "recommendation": {},
+  "storeNumber": "10496-100761",
+  "id": "9922",
+  "name": "Park Ave & Globeville- Denver",
+  "phoneNumber": "303-433-1217",
+  "coordinates": {
+    "latitude": 39.765476,
+    "longitude": -104.994549
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "3470 Park Ave West",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "802165105"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "CO",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 7:30 PM",
+  "addressLines": ["3470 Park Ave West", "Denver, CO 80216"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "5:00 AM to 7:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "5:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "5:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "5:00 AM to 7:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "5:00 AM to 7:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "5:00 AM to 7:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "5:00 AM to 7:30 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "DT",
+    "name": "Drive-Thru"
+  }, {
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "CD",
+    "name": "Mobile Payment"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "GO",
+    "name": "Starbucks Wi-Fi"
+  }, {
+    "code": "XO",
+    "name": "Mobile Order and Pay"
+  }, {
+    "code": "MX",
+    "name": "Music Experience"
+  }, {
+    "code": "NB",
+    "name": "Nitro Cold Brew"
+  }, {
+    "code": "BE",
+    "name": "Blonde Espresso"
+  }, {
+    "code": "SE",
+    "name": "Non-SVC MOP"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "LU",
+    "name": "Lunch"
+  }, {
+    "code": "PS",
+    "name": "Playbook Store System"
+  }, {
+    "code": "UC",
+    "name": "tbd - UCP"
+  }],
+  "slug": "park-ave-globeville-denver-3470-park-ave-west-denver-co-802165105-us"
+}, {
+  "recommendation": {},
+  "storeNumber": "5640-2442",
+  "id": "15921",
+  "name": "16th & Tremont",
+  "phoneNumber": "303/575-6753",
+  "coordinates": {
+    "latitude": 39.742964,
+    "longitude": -104.989053
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "303 16th Street",
+    "streetAddressLine2": "Ste. 100",
+    "streetAddressLine3": null,
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "802025031"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "CO",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 7:00 PM",
+  "addressLines": ["303 16th Street", "Ste. 100", "Denver, CO 80202"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "5:30 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "5:30 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "5:30 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "5:30 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "5:30 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "5:30 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "5:30 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "WF",
+    "name": "Wireless Hotspot"
+  }, {
+    "code": "CD",
+    "name": "Mobile Payment"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "XO",
+    "name": "Mobile Order and Pay"
+  }, {
+    "code": "MX",
+    "name": "Music Experience"
+  }, {
+    "code": "NB",
+    "name": "Nitro Cold Brew"
+  }, {
+    "code": "BE",
+    "name": "Blonde Espresso"
+  }, {
+    "code": "SE",
+    "name": "Non-SVC MOP"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "LU",
+    "name": "Lunch"
+  }, {
+    "code": "PS",
+    "name": "Playbook Store System"
+  }, {
+    "code": "UC",
+    "name": "tbd - UCP"
+  }, {
+    "code": "UE",
+    "name": "tbd - Uber Eats"
+  }],
+  "slug": "16th-tremont-303-16th-street-denver-co-802025031-us"
+}, {
+  "recommendation": {},
+  "storeNumber": "6205-263685",
+  "id": "1017325",
+  "name": "1670 Broadway",
+  "phoneNumber": "3038631826",
+  "coordinates": {
+    "latitude": 39.743004,
+    "longitude": -104.987088
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "1670 Broadway",
+    "streetAddressLine2": "110",
+    "streetAddressLine3": null,
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "802024801"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "CO",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 4:00 PM",
+  "addressLines": ["1670 Broadway", "110", "Denver, CO 80202"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "5:00 AM to 4:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "5:00 AM to 4:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "Closed",
+    "open": false,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "Closed",
+    "open": false,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "5:00 AM to 4:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "5:00 AM to 4:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "5:00 AM to 4:00 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "WF",
+    "name": "Wireless Hotspot"
+  }, {
+    "code": "CD",
+    "name": "Mobile Payment"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "XO",
+    "name": "Mobile Order and Pay"
+  }, {
+    "code": "MX",
+    "name": "Music Experience"
+  }, {
+    "code": "NB",
+    "name": "Nitro Cold Brew"
+  }, {
+    "code": "BE",
+    "name": "Blonde Espresso"
+  }, {
+    "code": "SE",
+    "name": "Non-SVC MOP"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "LU",
+    "name": "Lunch"
+  }, {
+    "code": "UC",
+    "name": "tbd - UCP"
+  }, {
+    "code": "UE",
+    "name": "tbd - Uber Eats"
+  }],
+  "slug": "1670-broadway-1670-broadway-denver-co-802024801-us"
+}, {
+  "recommendation": {},
+  "storeNumber": "17562-165406",
+  "id": "91316",
+  "name": "14th & Speer, Denver",
+  "phoneNumber": "3035340351",
+  "coordinates": {
+    "latitude": 39.738712,
+    "longitude": -104.996855
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "1410 Speer Blvd",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "802042536"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "CO",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 8:00 PM",
+  "addressLines": ["1410 Speer Blvd", "Denver, CO 80204"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "5:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "5:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "5:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "5:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "5:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "5:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "5:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "DT",
+    "name": "Drive-Thru"
+  }, {
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "CD",
+    "name": "Mobile Payment"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "GO",
+    "name": "Starbucks Wi-Fi"
+  }, {
+    "code": "XO",
+    "name": "Mobile Order and Pay"
+  }, {
+    "code": "MX",
+    "name": "Music Experience"
+  }, {
+    "code": "NB",
+    "name": "Nitro Cold Brew"
+  }, {
+    "code": "BE",
+    "name": "Blonde Espresso"
+  }, {
+    "code": "SE",
+    "name": "Non-SVC MOP"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "LU",
+    "name": "Lunch"
+  }, {
+    "code": "UC",
+    "name": "tbd - UCP"
+  }],
+  "slug": "14th-speer-denver-1410-speer-blvd-denver-co-802042536-us"
+}, {
+  "recommendation": {},
+  "storeNumber": "73787-111045",
+  "id": "7445",
+  "name": "King Soopers - Denver #1",
+  "phoneNumber": null,
+  "coordinates": {
+    "latitude": 39.737525,
+    "longitude": -104.998335
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "1331 N Speer Blvd",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "80204"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "LS",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 8:00 PM",
+  "addressLines": ["1331 N Speer Blvd", "Denver, CO 80204"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "WF",
+    "name": "Wireless Hotspot"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "BA",
+    "name": "Bakery"
+  }, {
+    "code": "RW",
+    "name": "My Starbucks Rewards"
+  }],
+  "slug": "king-soopers-denver-1-1331-n-speer-blvd-denver-co-80204-us"
+}, {
+  "recommendation": {},
+  "storeNumber": "22871-102491",
+  "id": "1007314",
+  "name": "Safeway - Denver #1248",
+  "phoneNumber": "303-477-5091",
+  "coordinates": {
+    "latitude": 39.755586,
+    "longitude": -105.024273
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "2660 Federal Blvd",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "80211"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "LS",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 8:00 PM",
+  "addressLines": ["2660 Federal Blvd", "Denver, CO 80211"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "WF",
+    "name": "Wireless Hotspot"
+  }, {
+    "code": "CD",
+    "name": "Mobile Payment"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "BE",
+    "name": "Blonde Espresso"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "RW",
+    "name": "My Starbucks Rewards"
+  }],
+  "slug": "safeway-denver-1248-2660-federal-blvd-denver-co-80211-us"
+}, {
+  "recommendation": {},
+  "storeNumber": "74282-65040",
+  "id": "16394",
+  "name": "Safeway - Denver #2246",
+  "phoneNumber": "303-861-8169",
+  "coordinates": {
+    "latitude": 39.74765,
+    "longitude": -104.977417
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "757 E 20th Ave",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "802053278"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "LS",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 7:00 PM",
+  "addressLines": ["757 E 20th Ave", "Denver, CO 80205"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "6:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "6:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "6:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "6:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "6:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "6:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "6:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "NB",
+    "name": "Nitro Cold Brew"
+  }, {
+    "code": "BE",
+    "name": "Blonde Espresso"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "RW",
+    "name": "My Starbucks Rewards"
+  }],
+  "slug": "safeway-denver-2246-757-e-20th-ave-denver-co-802053278-us"
+}, {
+  "recommendation": {},
+  "storeNumber": "10019-98985",
+  "id": "8472",
+  "name": "Speer & Federal - Denver",
+  "phoneNumber": "303-477-5234",
+  "coordinates": {
+    "latitude": 39.760432,
+    "longitude": -105.024784
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "2990 North Speer Blvd",
+    "streetAddressLine2": "Unit 1",
+    "streetAddressLine3": null,
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "802114251"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "CO",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 5:00 PM",
+  "addressLines": ["2990 North Speer Blvd", "Unit 1", "Denver, CO 80211"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "5:30 AM to 5:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "5:30 AM to 5:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "5:30 AM to 5:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "6:00 AM to 5:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "5:30 AM to 5:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "5:30 AM to 5:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "5:30 AM to 5:00 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "CD",
+    "name": "Mobile Payment"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "GO",
+    "name": "Starbucks Wi-Fi"
+  }, {
+    "code": "XO",
+    "name": "Mobile Order and Pay"
+  }, {
+    "code": "MX",
+    "name": "Music Experience"
+  }, {
+    "code": "NB",
+    "name": "Nitro Cold Brew"
+  }, {
+    "code": "BE",
+    "name": "Blonde Espresso"
+  }, {
+    "code": "SE",
+    "name": "Non-SVC MOP"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "LU",
+    "name": "Lunch"
+  }, {
+    "code": "UC",
+    "name": "tbd - UCP"
+  }],
+  "slug": "speer-federal-denver-2990-north-speer-blvd-denver-co-802114251-us"
+}, {
+  "recommendation": {},
+  "storeNumber": "5425-1281",
+  "id": "15888",
+  "name": "18th & Franklin - Denver, CO",
+  "phoneNumber": "(303) 320-5518",
+  "coordinates": {
+    "latitude": 39.744723,
+    "longitude": -104.968013
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "1600 E 18th Ave",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "802181202"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "CO",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 7:00 PM",
+  "addressLines": ["1600 E 18th Ave", "Denver, CO 80218"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "5:30 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "5:30 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "6:00 AM to 6:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "6:00 AM to 4:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "5:30 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "5:30 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "5:30 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "CD",
+    "name": "Mobile Payment"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "GO",
+    "name": "Starbucks Wi-Fi"
+  }, {
+    "code": "XO",
+    "name": "Mobile Order and Pay"
+  }, {
+    "code": "MX",
+    "name": "Music Experience"
+  }, {
+    "code": "NB",
+    "name": "Nitro Cold Brew"
+  }, {
+    "code": "BE",
+    "name": "Blonde Espresso"
+  }, {
+    "code": "SE",
+    "name": "Non-SVC MOP"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "LU",
+    "name": "Lunch"
+  }, {
+    "code": "PS",
+    "name": "Playbook Store System"
+  }, {
+    "code": "UC",
+    "name": "tbd - UCP"
+  }, {
+    "code": "UE",
+    "name": "tbd - Uber Eats"
+  }],
+  "slug": "18th-franklin-denver-co-1600-e-18th-ave-denver-co-802181202-us"
+}, {
+  "recommendation": {},
+  "storeNumber": "10770-100758",
+  "id": "9955",
+  "name": "44th Ave & Federal Blvd-Denver",
+  "phoneNumber": "303-477-1457",
+  "coordinates": {
+    "latitude": 39.776404,
+    "longitude": -105.024715
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "2990 W 44th Ave",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "802111408"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "CO",
+  "curbside": {
+    "state": "available"
+  },
+  "open": true,
+  "openStatusText": "Open until 7:30 PM",
+  "addressLines": ["2990 W 44th Ave", "Denver, CO 80211"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "5:00 AM to 7:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "5:00 AM to 7:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "5:00 AM to 7:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "5:00 AM to 7:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "5:00 AM to 7:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "5:00 AM to 7:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "5:00 AM to 7:30 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "DT",
+    "name": "Drive-Thru"
+  }, {
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "VS",
+    "name": "Verismo"
+  }, {
+    "code": "CD",
+    "name": "Mobile Payment"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "GO",
+    "name": "Starbucks Wi-Fi"
+  }, {
+    "code": "XO",
+    "name": "Mobile Order and Pay"
+  }, {
+    "code": "MX",
+    "name": "Music Experience"
+  }, {
+    "code": "NB",
+    "name": "Nitro Cold Brew"
+  }, {
+    "code": "BE",
+    "name": "Blonde Espresso"
+  }, {
+    "code": "CX",
+    "name": "Curbside"
+  }, {
+    "code": "SE",
+    "name": "Non-SVC MOP"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "LU",
+    "name": "Lunch"
+  }, {
+    "code": "UC",
+    "name": "tbd - UCP"
+  }, {
+    "code": "UE",
+    "name": "tbd - Uber Eats"
+  }],
+  "slug": "44th-ave-federal-blvd-denver-2990-w-44th-ave-denver-co-802111408-us"
+}, {
+  "recommendation": {},
+  "storeNumber": "6324-9153",
+  "id": "11141",
+  "name": "6th & Lincoln",
+  "phoneNumber": "303-831-4996",
+  "coordinates": {
+    "latitude": 39.725397,
+    "longitude": -104.986468
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "575 Lincoln St",
+    "streetAddressLine2": "Suite A",
+    "streetAddressLine3": "The Shops at 6th and Broadway",
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "802033419"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "CO",
+  "curbside": {
+    "state": "available"
+  },
+  "open": true,
+  "openStatusText": "Open until 7:00 PM",
+  "addressLines": ["575 Lincoln St", "Suite A", "Denver, CO 80203"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "5:30 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "5:30 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "6:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "6:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "5:30 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "5:30 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "5:30 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "WF",
+    "name": "Wireless Hotspot"
+  }, {
+    "code": "CD",
+    "name": "Mobile Payment"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "XO",
+    "name": "Mobile Order and Pay"
+  }, {
+    "code": "MX",
+    "name": "Music Experience"
+  }, {
+    "code": "NB",
+    "name": "Nitro Cold Brew"
+  }, {
+    "code": "BE",
+    "name": "Blonde Espresso"
+  }, {
+    "code": "CX",
+    "name": "Curbside"
+  }, {
+    "code": "SE",
+    "name": "Non-SVC MOP"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "LU",
+    "name": "Lunch"
+  }, {
+    "code": "PS",
+    "name": "Playbook Store System"
+  }, {
+    "code": "UC",
+    "name": "tbd - UCP"
+  }],
+  "slug": "6th-lincoln-575-lincoln-st-the-shops-at-6th-and-broadway-denve"
+}, {
+  "recommendation": {},
+  "storeNumber": "75003-33060",
+  "id": "15744",
+  "name": "King Soopers-Denver #29",
+  "phoneNumber": "303-832-5262",
+  "coordinates": {
+    "latitude": 39.730942,
+    "longitude": -104.973449
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "1155 E. 9th Ave.",
+    "streetAddressLine2": null,
+    "streetAddressLine3": "Capitol Hill Center",
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "802184802"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "LS",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 8:00 PM",
+  "addressLines": ["1155 E. 9th Ave.", "Denver, CO 80218"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "WF",
+    "name": "Wireless Hotspot"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "BA",
+    "name": "Bakery"
+  }, {
+    "code": "RW",
+    "name": "My Starbucks Rewards"
+  }],
+  "slug": "king-soopers-denver-29-1155-e-9th-ave-capitol-hill-center-denver-co-80218"
+}, {
+  "recommendation": {},
+  "storeNumber": "5285-803",
+  "id": "11578",
+  "name": "6th & Grant (Lattas)",
+  "phoneNumber": "(303) 765-5789",
+  "coordinates": {
+    "latitude": 39.725311,
+    "longitude": -104.983305
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "300 E. 6th Ave.",
+    "streetAddressLine2": "#5",
+    "streetAddressLine3": null,
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "802036619"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "CO",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 6:30 PM",
+  "addressLines": ["300 E. 6th Ave.", "#5", "Denver, CO 80203"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "5:00 AM to 6:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "5:00 AM to 5:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "5:30 AM to 5:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "5:30 AM to 5:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "5:00 AM to 6:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "5:00 AM to 6:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "5:00 AM to 6:30 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "WF",
+    "name": "Wireless Hotspot"
+  }, {
+    "code": "CD",
+    "name": "Mobile Payment"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "XO",
+    "name": "Mobile Order and Pay"
+  }, {
+    "code": "MX",
+    "name": "Music Experience"
+  }, {
+    "code": "NB",
+    "name": "Nitro Cold Brew"
+  }, {
+    "code": "BE",
+    "name": "Blonde Espresso"
+  }, {
+    "code": "SE",
+    "name": "Non-SVC MOP"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "LU",
+    "name": "Lunch"
+  }, {
+    "code": "UC",
+    "name": "tbd - UCP"
+  }],
+  "slug": "6th-grant-lattas-300-e-6th-ave-denver-co-802036619-us"
+}, {
+  "recommendation": {},
+  "storeNumber": "48194-254256",
+  "id": "1015958",
+  "name": "Breckenridge at Sloans",
+  "phoneNumber": "7209047014",
+  "coordinates": {
+    "latitude": 39.740547,
+    "longitude": -105.041926
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "4205 W Colfax Ave",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "80204"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "LS",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 5:00 PM",
+  "addressLines": ["4205 W Colfax Ave", "Denver, CO 80204"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "6:00 AM to 5:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "6:00 AM to 5:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "6:00 AM to 5:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "6:00 AM to 5:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "6:00 AM to 5:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "6:00 AM to 5:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "6:00 AM to 5:00 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "CL",
+    "name": "Starbucks Reserve-Clover Brewed"
+  }, {
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "WF",
+    "name": "Wireless Hotspot"
+  }, {
+    "code": "CD",
+    "name": "Mobile Payment"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "BE",
+    "name": "Blonde Espresso"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "LU",
+    "name": "Lunch"
+  }, {
+    "code": "RW",
+    "name": "My Starbucks Rewards"
+  }, {
+    "code": "PS",
+    "name": "Playbook Store System"
+  }, {
+    "code": "CS",
+    "name": "tbd - Coffee Scale"
+  }],
+  "slug": "breckenridge-at-sloans-4205-w-colfax-ave-denver-co-80204-us"
+}, {
+  "recommendation": {},
+  "storeNumber": "74125-25289",
+  "id": "12391",
+  "name": "Safeway-Denver #1614",
+  "phoneNumber": "303-777-1231",
+  "coordinates": {
+    "latitude": 39.725215,
+    "longitude": -104.973451
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "560 Corona St.",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "802183436"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "LS",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 7:00 PM",
+  "addressLines": ["560 Corona St.", "Denver, CO 80218"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "6:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "6:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "6:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "6:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "6:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "6:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "6:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "CD",
+    "name": "Mobile Payment"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "NB",
+    "name": "Nitro Cold Brew"
+  }, {
+    "code": "BE",
+    "name": "Blonde Espresso"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "BA",
+    "name": "Bakery"
+  }, {
+    "code": "RW",
+    "name": "My Starbucks Rewards"
+  }],
+  "slug": "safeway-denver-1614-560-corona-st-denver-co-802183436-us"
+}, {
+  "recommendation": {},
+  "storeNumber": "74296-77462",
+  "id": "16622",
+  "name": "Safeway-Denver #244",
+  "phoneNumber": "303-458-8418",
+  "coordinates": {
+    "latitude": 39.77606,
+    "longitude": -105.036935
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "3800 W 44th Ave",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "802111305"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "LS",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 7:00 PM",
+  "addressLines": ["3800 W 44th Ave", "Denver, CO 80211"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "6:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "6:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "6:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "6:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "6:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "6:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "6:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "CD",
+    "name": "Mobile Payment"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "NB",
+    "name": "Nitro Cold Brew"
+  }, {
+    "code": "BE",
+    "name": "Blonde Espresso"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "BA",
+    "name": "Bakery"
+  }, {
+    "code": "RW",
+    "name": "My Starbucks Rewards"
+  }],
+  "slug": "safeway-denver-244-3800-w-44th-ave-denver-co-802111305-us"
+}, {
+  "recommendation": {},
+  "storeNumber": "11105-100844",
+  "id": "17736",
+  "name": "Highlands Garden Village",
+  "phoneNumber": "303-455-3382",
+  "coordinates": {
+    "latitude": 39.769199,
+    "longitude": -105.045796
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "4500 W 38th Ave",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "802122001"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "CO",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 6:00 PM",
+  "addressLines": ["4500 W 38th Ave", "Denver, CO 80212"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "5:30 AM to 6:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "5:30 AM to 6:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "5:30 AM to 6:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "5:30 AM to 6:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "5:30 AM to 6:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "5:30 AM to 6:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "5:30 AM to 6:00 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "DT",
+    "name": "Drive-Thru"
+  }, {
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "CD",
+    "name": "Mobile Payment"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "GO",
+    "name": "Starbucks Wi-Fi"
+  }, {
+    "code": "XO",
+    "name": "Mobile Order and Pay"
+  }, {
+    "code": "MX",
+    "name": "Music Experience"
+  }, {
+    "code": "NB",
+    "name": "Nitro Cold Brew"
+  }, {
+    "code": "BE",
+    "name": "Blonde Espresso"
+  }, {
+    "code": "SE",
+    "name": "Non-SVC MOP"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "LU",
+    "name": "Lunch"
+  }, {
+    "code": "UC",
+    "name": "tbd - UCP"
+  }, {
+    "code": "UE",
+    "name": "tbd - Uber Eats"
+  }],
+  "slug": "highlands-garden-village-4500-w-38th-ave-denver-co-802122001-us"
+}, {
+  "recommendation": {},
+  "storeNumber": "2946-87321",
+  "id": "13945",
+  "name": "Colfax & Milwaukee-Denver",
+  "phoneNumber": "303-316-2822",
+  "coordinates": {
+    "latitude": 39.740533,
+    "longitude": -104.952757
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "2975 E Colfax Ave",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "802061604"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "CO",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 8:30 PM",
+  "addressLines": ["2975 E Colfax Ave", "Denver, CO 80206"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "5:00 AM to 8:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "5:00 AM to 9:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "5:00 AM to 9:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "5:30 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "5:00 AM to 8:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "5:00 AM to 8:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "5:00 AM to 8:30 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "DT",
+    "name": "Drive-Thru"
+  }, {
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "CD",
+    "name": "Mobile Payment"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "GO",
+    "name": "Starbucks Wi-Fi"
+  }, {
+    "code": "XO",
+    "name": "Mobile Order and Pay"
+  }, {
+    "code": "MX",
+    "name": "Music Experience"
+  }, {
+    "code": "NB",
+    "name": "Nitro Cold Brew"
+  }, {
+    "code": "BE",
+    "name": "Blonde Espresso"
+  }, {
+    "code": "SE",
+    "name": "Non-SVC MOP"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "LU",
+    "name": "Lunch"
+  }, {
+    "code": "UC",
+    "name": "tbd - UCP"
+  }],
+  "slug": "colfax-milwaukee-denver-2975-e-colfax-ave-denver-co-802061604-us"
+}, {
+  "recommendation": {},
+  "storeNumber": "8758-94827",
+  "id": "14305",
+  "name": "2255 Sheridan Blvd-Edgewater",
+  "phoneNumber": "303-233-1603",
+  "coordinates": {
+    "latitude": 39.750301,
+    "longitude": -105.053615
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "2255 Sheridan Blvd",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Edgewater",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "802141313"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "CO",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 9:00 PM",
+  "addressLines": ["2255 Sheridan Blvd", "Edgewater, CO 80214"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "5:00 AM to 9:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "5:00 AM to 9:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "5:00 AM to 9:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "5:00 AM to 9:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "5:00 AM to 9:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "5:00 AM to 9:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "5:00 AM to 9:00 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "DT",
+    "name": "Drive-Thru"
+  }, {
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "CD",
+    "name": "Mobile Payment"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "GO",
+    "name": "Starbucks Wi-Fi"
+  }, {
+    "code": "XO",
+    "name": "Mobile Order and Pay"
+  }, {
+    "code": "MX",
+    "name": "Music Experience"
+  }, {
+    "code": "NB",
+    "name": "Nitro Cold Brew"
+  }, {
+    "code": "BE",
+    "name": "Blonde Espresso"
+  }, {
+    "code": "SE",
+    "name": "Non-SVC MOP"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "LU",
+    "name": "Lunch"
+  }, {
+    "code": "UC",
+    "name": "tbd - UCP"
+  }, {
+    "code": "UE",
+    "name": "tbd - Uber Eats"
+  }],
+  "slug": "2255-sheridan-blvd-edgewater-2255-sheridan-blvd-edgewater-co-802141313-us"
+}, {
+  "recommendation": {},
+  "storeNumber": "50756-266405",
+  "id": "1024009",
+  "name": "52nd and Federal",
+  "phoneNumber": "7205453767",
+  "coordinates": {
+    "latitude": 39.791277,
+    "longitude": -105.024866
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "5202 Federal Blvd.",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "802211144"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "CO",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 7:30 PM",
+  "addressLines": ["5202 Federal Blvd.", "Denver, CO 80221"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "4:30 AM to 7:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "4:30 AM to 7:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "4:30 AM to 7:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "4:30 AM to 7:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "4:30 AM to 7:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "4:30 AM to 7:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "4:30 AM to 7:30 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "DT",
+    "name": "Drive-Thru"
+  }, {
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "CD",
+    "name": "Mobile Payment"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "GO",
+    "name": "Starbucks Wi-Fi"
+  }, {
+    "code": "XO",
+    "name": "Mobile Order and Pay"
+  }, {
+    "code": "NB",
+    "name": "Nitro Cold Brew"
+  }, {
+    "code": "SE",
+    "name": "Non-SVC MOP"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "LU",
+    "name": "Lunch"
+  }, {
+    "code": "RW",
+    "name": "My Starbucks Rewards"
+  }, {
+    "code": "UC",
+    "name": "tbd - UCP"
+  }],
+  "slug": "52nd-and-federal-5202-federal-blvd-denver-co-802211144-us"
+}, {
+  "recommendation": {},
+  "storeNumber": "76782-108571",
+  "id": "6495",
+  "name": "Target Edgewater T-2225",
+  "phoneNumber": "720-374-3665",
+  "coordinates": {
+    "latitude": 39.746364,
+    "longitude": -105.055505
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "1985 Sheridan Blvd",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Edgewater",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "802141325"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "LS",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 9:00 PM",
+  "addressLines": ["1985 Sheridan Blvd", "Edgewater, CO 80214"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "8:00 AM to 9:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "8:00 AM to 9:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "8:00 AM to 9:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "8:00 AM to 9:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "8:00 AM to 9:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "8:00 AM to 9:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "8:00 AM to 9:00 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "CD",
+    "name": "Mobile Payment"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "BA",
+    "name": "Bakery"
+  }, {
+    "code": "RW",
+    "name": "My Starbucks Rewards"
+  }],
+  "slug": "target-edgewater-t-2225-1985-sheridan-blvd-edgewater-co-802141325-us"
+}, {
+  "recommendation": {},
+  "storeNumber": "29548-245835",
+  "id": "1014932",
+  "name": "King Sooper Edgewater #90",
+  "phoneNumber": "303-237-4988",
+  "coordinates": {
+    "latitude": 39.744832,
+    "longitude": -105.055722
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "1725 Sheridan Blvd",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Edgewater",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "80214"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "LS",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 8:00 PM",
+  "addressLines": ["1725 Sheridan Blvd", "Edgewater, CO 80214"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "WF",
+    "name": "Wireless Hotspot"
+  }, {
+    "code": "CD",
+    "name": "Mobile Payment"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "RW",
+    "name": "My Starbucks Rewards"
+  }],
+  "slug": "king-sooper-edgewater-90-1725-sheridan-blvd-edgewater-co-80214-us"
+}, {
+  "recommendation": {},
+  "storeNumber": "17740-94024",
+  "id": "1005285",
+  "name": "King Soopers-Denver #57",
+  "phoneNumber": "303-425-7356",
+  "coordinates": {
+    "latitude": 39.770299,
+    "longitude": -105.054177
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "5301 W 38th Ave",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Wheat Ridge",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "802127249"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "LS",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 8:00 PM",
+  "addressLines": ["5301 W 38th Ave", "Wheat Ridge, CO 80212"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "WF",
+    "name": "Wireless Hotspot"
+  }, {
+    "code": "CD",
+    "name": "Mobile Payment"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "RW",
+    "name": "My Starbucks Rewards"
+  }],
+  "slug": "king-soopers-denver-57-5301-w-38th-ave-wheat-ridge-co-802127249-us"
+}, {
+  "recommendation": {},
+  "storeNumber": "73165-21582",
+  "id": "11111",
+  "name": "Safeway - Denver #885",
+  "phoneNumber": "303-744-8531",
+  "coordinates": {
+    "latitude": 39.710427,
+    "longitude": -104.988538
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "323 S Broadway",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "802091511"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "LS",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 7:00 PM",
+  "addressLines": ["323 S Broadway", "Denver, CO 80209"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "6:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "6:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "6:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "6:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "6:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "6:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "6:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "NB",
+    "name": "Nitro Cold Brew"
+  }, {
+    "code": "BE",
+    "name": "Blonde Espresso"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "BA",
+    "name": "Bakery"
+  }, {
+    "code": "RW",
+    "name": "My Starbucks Rewards"
+  }],
+  "slug": "safeway-denver-885-323-s-broadway-denver-co-802091511-us"
+}, {
+  "recommendation": {},
+  "storeNumber": "29429-253366",
+  "id": "1015915",
+  "name": "Alameda and Federal",
+  "phoneNumber": "7204989109",
+  "coordinates": {
+    "latitude": 39.710928,
+    "longitude": -105.022519
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "2790 W. Alameda Ave.",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "802193041"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "CO",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 8:30 PM",
+  "addressLines": ["2790 W. Alameda Ave.", "Denver, CO 80219"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "4:30 AM to 8:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "4:30 AM to 8:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "5:00 AM to 8:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "5:00 AM to 8:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "4:30 AM to 8:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "4:30 AM to 8:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "4:30 AM to 8:30 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "DT",
+    "name": "Drive-Thru"
+  }, {
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "CD",
+    "name": "Mobile Payment"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "GO",
+    "name": "Starbucks Wi-Fi"
+  }, {
+    "code": "XO",
+    "name": "Mobile Order and Pay"
+  }, {
+    "code": "NB",
+    "name": "Nitro Cold Brew"
+  }, {
+    "code": "BE",
+    "name": "Blonde Espresso"
+  }, {
+    "code": "SE",
+    "name": "Non-SVC MOP"
+  }, {
+    "code": "LU",
+    "name": "Lunch"
+  }, {
+    "code": "RW",
+    "name": "My Starbucks Rewards"
+  }, {
+    "code": "UC",
+    "name": "tbd - UCP"
+  }],
+  "slug": "alameda-and-federal-2790-w-alameda-ave-denver-co-802193041-us"
+}, {
+  "recommendation": {},
+  "storeNumber": "237-230005",
+  "id": "1010311",
+  "name": "3rd and Columbine-Cherry Creek",
+  "phoneNumber": "3033333473",
+  "coordinates": {
+    "latitude": 39.720859,
+    "longitude": -104.956887
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "250 Columbine",
+    "streetAddressLine2": "160",
+    "streetAddressLine3": null,
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "802064728"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "CO",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 8:00 PM",
+  "addressLines": ["250 Columbine", "160", "Denver, CO 80206"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "5:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "5:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "5:30 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "5:30 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "5:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "5:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "5:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "CD",
+    "name": "Mobile Payment"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "GO",
+    "name": "Starbucks Wi-Fi"
+  }, {
+    "code": "XO",
+    "name": "Mobile Order and Pay"
+  }, {
+    "code": "MX",
+    "name": "Music Experience"
+  }, {
+    "code": "NB",
+    "name": "Nitro Cold Brew"
+  }, {
+    "code": "BE",
+    "name": "Blonde Espresso"
+  }, {
+    "code": "SE",
+    "name": "Non-SVC MOP"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "LU",
+    "name": "Lunch"
+  }, {
+    "code": "UC",
+    "name": "tbd - UCP"
+  }],
+  "slug": "3rd-and-columbine-cherry-creek-250-columbine-denver-co-802064728-us"
+}, {
+  "recommendation": {},
+  "storeNumber": "8971-94801",
+  "id": "16331",
+  "name": "Alameda & Downing",
+  "phoneNumber": "303-733-0246",
+  "coordinates": {
+    "latitude": 39.711244,
+    "longitude": -104.972985
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "1209 East Alameda Ave",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "802092420"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "CO",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 7:00 PM",
+  "addressLines": ["1209 East Alameda Ave", "Denver, CO 80209"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "5:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "5:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "5:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "5:30 AM to 6:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "5:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "5:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "5:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "CD",
+    "name": "Mobile Payment"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "GO",
+    "name": "Starbucks Wi-Fi"
+  }, {
+    "code": "XO",
+    "name": "Mobile Order and Pay"
+  }, {
+    "code": "MX",
+    "name": "Music Experience"
+  }, {
+    "code": "NB",
+    "name": "Nitro Cold Brew"
+  }, {
+    "code": "BE",
+    "name": "Blonde Espresso"
+  }, {
+    "code": "SE",
+    "name": "Non-SVC MOP"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "LU",
+    "name": "Lunch"
+  }, {
+    "code": "UC",
+    "name": "tbd - UCP"
+  }],
+  "slug": "alameda-downing-1209-east-alameda-ave-denver-co-802092420-us"
+}, {
+  "recommendation": {},
+  "storeNumber": "10351-266964",
+  "id": "1021899",
+  "name": "Broadway and Virginia",
+  "phoneNumber": "3037221002",
+  "coordinates": {
+    "latitude": 39.707379,
+    "longitude": -104.987376
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "500 S Broadway",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "802094002"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "CO",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 7:30 PM",
+  "addressLines": ["500 S Broadway", "Denver, CO 80209"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "5:00 AM to 7:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "5:00 AM to 7:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "5:30 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "5:30 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "5:00 AM to 7:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "5:00 AM to 7:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "5:00 AM to 7:30 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "DT",
+    "name": "Drive-Thru"
+  }, {
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "CD",
+    "name": "Mobile Payment"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "GO",
+    "name": "Starbucks Wi-Fi"
+  }, {
+    "code": "XO",
+    "name": "Mobile Order and Pay"
+  }, {
+    "code": "MX",
+    "name": "Music Experience"
+  }, {
+    "code": "NB",
+    "name": "Nitro Cold Brew"
+  }, {
+    "code": "BE",
+    "name": "Blonde Espresso"
+  }, {
+    "code": "SE",
+    "name": "Non-SVC MOP"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "LU",
+    "name": "Lunch"
+  }, {
+    "code": "PS",
+    "name": "Playbook Store System"
+  }, {
+    "code": "UC",
+    "name": "tbd - UCP"
+  }, {
+    "code": "UE",
+    "name": "tbd - Uber Eats"
+  }],
+  "slug": "broadway-and-virginia-500-s-broadway-denver-co-802094002-us"
+}, {
+  "recommendation": {},
+  "storeNumber": "253-136",
+  "id": "18414",
+  "name": "2nd Ave and Filmore - Cherry Creek",
+  "phoneNumber": "(303) 388-7565",
+  "coordinates": {
+    "latitude": 39.719538,
+    "longitude": -104.953198
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "200 Fillmore Street",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "802065028"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "CO",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 9:00 PM",
+  "addressLines": ["200 Fillmore Street", "Denver, CO 80206"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "5:00 AM to 9:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "5:00 AM to 9:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "5:30 AM to 9:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "5:30 AM to 9:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "5:00 AM to 9:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "5:00 AM to 9:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "5:00 AM to 9:00 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "VS",
+    "name": "Verismo"
+  }, {
+    "code": "CD",
+    "name": "Mobile Payment"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "GO",
+    "name": "Starbucks Wi-Fi"
+  }, {
+    "code": "XO",
+    "name": "Mobile Order and Pay"
+  }, {
+    "code": "MX",
+    "name": "Music Experience"
+  }, {
+    "code": "NB",
+    "name": "Nitro Cold Brew"
+  }, {
+    "code": "BE",
+    "name": "Blonde Espresso"
+  }, {
+    "code": "SE",
+    "name": "Non-SVC MOP"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "LU",
+    "name": "Lunch"
+  }, {
+    "code": "UC",
+    "name": "tbd - UCP"
+  }, {
+    "code": "UE",
+    "name": "tbd - Uber Eats"
+  }],
+  "slug": "2nd-ave-and-filmore-cherry-creek-200-fillmore-street-denver-co-802065028-us"
+}, {
+  "recommendation": {},
+  "storeNumber": "11473-103805",
+  "id": "10974",
+  "name": "40th & Colorado-Denver",
+  "phoneNumber": "303 320-7610",
+  "coordinates": {
+    "latitude": 39.773415,
+    "longitude": -104.940171
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "4030 Colorado Blvd",
+    "streetAddressLine2": "101",
+    "streetAddressLine3": null,
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "802164303"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "CO",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 8:30 PM",
+  "addressLines": ["4030 Colorado Blvd", "101", "Denver, CO 80216"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "4:30 AM to 8:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "4:30 AM to 8:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "5:00 AM to 9:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "5:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "4:30 AM to 8:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "4:30 AM to 8:30 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "4:30 AM to 8:30 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "DT",
+    "name": "Drive-Thru"
+  }, {
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "CD",
+    "name": "Mobile Payment"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "GO",
+    "name": "Starbucks Wi-Fi"
+  }, {
+    "code": "XO",
+    "name": "Mobile Order and Pay"
+  }, {
+    "code": "MX",
+    "name": "Music Experience"
+  }, {
+    "code": "BE",
+    "name": "Blonde Espresso"
+  }, {
+    "code": "SE",
+    "name": "Non-SVC MOP"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "LU",
+    "name": "Lunch"
+  }, {
+    "code": "UC",
+    "name": "tbd - UCP"
+  }, {
+    "code": "UE",
+    "name": "tbd - Uber Eats"
+  }],
+  "slug": "40th-colorado-denver-4030-colorado-blvd-denver-co-802164303-us"
+}, {
+  "recommendation": {},
+  "storeNumber": "10861-103209",
+  "id": "10432",
+  "name": "Cherry Creek Mall - West.",
+  "phoneNumber": "303-320-7560",
+  "coordinates": {
+    "latitude": 39.717239,
+    "longitude": -104.954517
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "3000 1st Ave.",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "802065638"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "CO",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 8:00 PM",
+  "addressLines": ["3000 1st Ave.", "Denver, CO 80206"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "8:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "8:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "8:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "9:00 AM to 6:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "8:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "8:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "8:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "VS",
+    "name": "Verismo"
+  }, {
+    "code": "CD",
+    "name": "Mobile Payment"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "GO",
+    "name": "Starbucks Wi-Fi"
+  }, {
+    "code": "XO",
+    "name": "Mobile Order and Pay"
+  }, {
+    "code": "MX",
+    "name": "Music Experience"
+  }, {
+    "code": "NB",
+    "name": "Nitro Cold Brew"
+  }, {
+    "code": "BE",
+    "name": "Blonde Espresso"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "LU",
+    "name": "Lunch"
+  }, {
+    "code": "PS",
+    "name": "Playbook Store System"
+  }],
+  "slug": "cherry-creek-mall-west-3000-1st-ave-denver-co-802065638-us"
+}, {
+  "recommendation": {},
+  "storeNumber": "270-138",
+  "id": "11667",
+  "name": "8th & Colorado",
+  "phoneNumber": "(303) 329-0040",
+  "coordinates": {
+    "latitude": 39.729279,
+    "longitude": -104.94098
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "801 Colorado Blvd.",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "802064037"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "CO",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 7:00 PM",
+  "addressLines": ["801 Colorado Blvd.", "Denver, CO 80206"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "5:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "5:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "5:30 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "5:30 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "5:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "5:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "5:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "VS",
+    "name": "Verismo"
+  }, {
+    "code": "CD",
+    "name": "Mobile Payment"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "GO",
+    "name": "Starbucks Wi-Fi"
+  }, {
+    "code": "XO",
+    "name": "Mobile Order and Pay"
+  }, {
+    "code": "MX",
+    "name": "Music Experience"
+  }, {
+    "code": "NB",
+    "name": "Nitro Cold Brew"
+  }, {
+    "code": "BE",
+    "name": "Blonde Espresso"
+  }, {
+    "code": "SE",
+    "name": "Non-SVC MOP"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "LU",
+    "name": "Lunch"
+  }, {
+    "code": "UC",
+    "name": "tbd - UCP"
+  }, {
+    "code": "UE",
+    "name": "tbd - Uber Eats"
+  }],
+  "slug": "8th-colorado-801-colorado-blvd-denver-co-802064037-us"
+}, {
+  "recommendation": {},
+  "storeNumber": "6618-69880",
+  "id": "16152",
+  "name": "Santa Fe & Mississippi",
+  "phoneNumber": "303-715-0600",
+  "coordinates": {
+    "latitude": 39.693731,
+    "longitude": -104.99274
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "1285 S Santa Fe Drive",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "802233214"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "CO",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 7:00 PM",
+  "addressLines": ["1285 S Santa Fe Drive", "Denver, CO 80223"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "5:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "5:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "5:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "5:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "5:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "5:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "5:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "DT",
+    "name": "Drive-Thru"
+  }, {
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "CD",
+    "name": "Mobile Payment"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "GO",
+    "name": "Starbucks Wi-Fi"
+  }, {
+    "code": "XO",
+    "name": "Mobile Order and Pay"
+  }, {
+    "code": "MX",
+    "name": "Music Experience"
+  }, {
+    "code": "NB",
+    "name": "Nitro Cold Brew"
+  }, {
+    "code": "BE",
+    "name": "Blonde Espresso"
+  }, {
+    "code": "SE",
+    "name": "Non-SVC MOP"
+  }, {
+    "code": "LU",
+    "name": "Lunch"
+  }, {
+    "code": "UC",
+    "name": "tbd - UCP"
+  }],
+  "slug": "santa-fe-mississippi-1285-s-santa-fe-drive-denver-co-802233214-us"
+}, {
+  "recommendation": {},
+  "storeNumber": "8115-272825",
+  "id": "1021955",
+  "name": "Colfax and Ivy",
+  "phoneNumber": "3033334646",
+  "coordinates": {
+    "latitude": 39.740349,
+    "longitude": -104.91976
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "5901 E Colfax",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "802201500"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "CO",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 8:00 PM",
+  "addressLines": ["5901 E Colfax", "Denver, CO 80220"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "5:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "5:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "5:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "5:30 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "5:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "5:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "5:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "DT",
+    "name": "Drive-Thru"
+  }, {
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "CD",
+    "name": "Mobile Payment"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "GO",
+    "name": "Starbucks Wi-Fi"
+  }, {
+    "code": "XO",
+    "name": "Mobile Order and Pay"
+  }, {
+    "code": "MX",
+    "name": "Music Experience"
+  }, {
+    "code": "NB",
+    "name": "Nitro Cold Brew"
+  }, {
+    "code": "BE",
+    "name": "Blonde Espresso"
+  }, {
+    "code": "SE",
+    "name": "Non-SVC MOP"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "LU",
+    "name": "Lunch"
+  }, {
+    "code": "PS",
+    "name": "Playbook Store System"
+  }, {
+    "code": "UC",
+    "name": "tbd - UCP"
+  }],
+  "slug": "colfax-and-ivy-5901-e-colfax-denver-co-802201500-us"
+}, {
+  "recommendation": {},
+  "storeNumber": "74371-82287",
+  "id": "13105",
+  "name": "Safeway-Wheat Ridge #1479",
+  "phoneNumber": "303-456-2670",
+  "coordinates": {
+    "latitude": 39.771135,
+    "longitude": -105.080003
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "3900 Wadsworth",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Wheat Ridge",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "800334615"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "LS",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 7:00 PM",
+  "addressLines": ["3900 Wadsworth", "Wheat Ridge, CO 80033"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "6:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "6:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "6:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "6:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "6:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "6:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "6:00 AM to 7:00 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "WF",
+    "name": "Wireless Hotspot"
+  }, {
+    "code": "CD",
+    "name": "Mobile Payment"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "NB",
+    "name": "Nitro Cold Brew"
+  }, {
+    "code": "BE",
+    "name": "Blonde Espresso"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }],
+  "slug": "safeway-wheat-ridge-1479-3900-wadsworth-wheat-ridge-co-800334615-us"
+}, {
+  "recommendation": {},
+  "storeNumber": "56592-289447",
+  "id": "1026668",
+  "name": "Colorado and Virginia",
+  "phoneNumber": "7204135622",
+  "coordinates": {
+    "latitude": 39.70897,
+    "longitude": -104.940068
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "410 S Colorado Blvd",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Glendale",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "802461207"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "CO",
+  "curbside": {
+    "state": "available"
+  },
+  "open": true,
+  "openStatusText": "Open until 8:00 PM",
+  "addressLines": ["410 S Colorado Blvd", "Glendale, CO 80246"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "5:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "5:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "5:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "5:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "5:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "5:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "5:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "DT",
+    "name": "Drive-Thru"
+  }, {
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "CD",
+    "name": "Mobile Payment"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "GO",
+    "name": "Starbucks Wi-Fi"
+  }, {
+    "code": "XO",
+    "name": "Mobile Order and Pay"
+  }, {
+    "code": "NB",
+    "name": "Nitro Cold Brew"
+  }, {
+    "code": "CX",
+    "name": "Curbside"
+  }, {
+    "code": "SE",
+    "name": "Non-SVC MOP"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "LU",
+    "name": "Lunch"
+  }, {
+    "code": "RW",
+    "name": "My Starbucks Rewards"
+  }, {
+    "code": "UC",
+    "name": "tbd - UCP"
+  }],
+  "slug": "colorado-and-virginia-410-s-colorado-blvd-glendale-co-802461207-us"
+}, {
+  "recommendation": {},
+  "storeNumber": "59447-293145",
+  "id": "1026933",
+  "name": "KING SOOPERS DENVER #5",
+  "phoneNumber": "3033991086",
+  "coordinates": {
+    "latitude": 39.737529,
+    "longitude": -104.917455
+  },
+  "regulations": [],
+  "address": {
+    "streetAddressLine1": "1355 Krameria St",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Denver",
+    "countrySubdivisionCode": "CO",
+    "countryCode": "US",
+    "postalCode": "80220"
+  },
+  "timeZoneInfo": {
+    "currentTimeOffset": -360,
+    "windowsTimeZoneId": "Mountain Standard Time",
+    "olsonTimeZoneId": "GMT-07:00 America/Denver"
+  },
+  "brandName": "Starbucks",
+  "ownershipTypeCode": "LS",
+  "curbside": {
+    "state": "notSupported"
+  },
+  "open": true,
+  "openStatusText": "Open until 8:00 PM",
+  "addressLines": ["1355 Krameria St", "Denver, CO 80220"],
+  "mop": {
+    "ready": false,
+    "wait": null
+  },
+  "schedule": [{
+    "dayName": "Today",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tomorrow",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Saturday",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Sunday",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Monday",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Tuesday",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }, {
+    "dayName": "Wednesday",
+    "hours": "6:00 AM to 8:00 PM",
+    "open": true,
+    "holiday": ""
+  }],
+  "features": [{
+    "code": "WA",
+    "name": "Oven-warmed Food"
+  }, {
+    "code": "CD",
+    "name": "Mobile Payment"
+  }, {
+    "code": "DR",
+    "name": "Redeem Rewards"
+  }, {
+    "code": "LB",
+    "name": "LaBoulange"
+  }, {
+    "code": "NB",
+    "name": "Nitro Cold Brew"
+  }, {
+    "code": "BE",
+    "name": "Blonde Espresso"
+  }, {
+    "code": "16",
+    "name": "In store"
+  }, {
+    "code": "RW",
+    "name": "My Starbucks Rewards"
+  }],
+  "slug": "king-soopers-denver-5-1355-krameria-st-denver-co-80220-us"
+}]
