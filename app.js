@@ -4,8 +4,8 @@ const app = express();
 const axios = require("axios");
 const port = 3000;
 const Store = require("./api/models/store");
-const googleMapsService = require("./api/services/googleMapsService.js");
-const GoogleMapsService = new GoogleMapsService();
+const GoogleMapsService = require("./api/services/googleMapsService");
+const googleMapsService = new GoogleMapsService();
 require("dotenv").config();
 
 app.use(function (req, res, next) {
@@ -14,7 +14,7 @@ app.use(function (req, res, next) {
 });
 
 mongoose.connect(
-  "mongodb+srv://Soloman:@cluster0.v31tf.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  `mongodb+srv://Soloman:${process.env.MONGO_KEY}@cluster0.v31tf.mongodb.net/<dbname>?retryWrites=true&w=majority`,
   {
     useNewUrlParser: true,
     useUnifiedTopology: true,
