@@ -1,7 +1,7 @@
 const express = require("express");
 const mongoose = require("mongoose");
-const store = require("./api/models/store");
 const app = express();
+const axios = require("axios");
 const port = 3000;
 const Store = require("./api/models/store");
 
@@ -14,7 +14,8 @@ mongoose.connect(
   "mongodb+srv://Soloman:@cluster0.v31tf.mongodb.net/<dbname>?retryWrites=true&w=majority",
   {
     useNewUrlParser: true,
-    useUnifiedTopology: true
+    useUnifiedTopology: true,
+    useCreateIndex: true
   }
 );
 
@@ -47,13 +48,47 @@ app.post("/api/stores", (req, res) => {
 });
 //H7nV2JRxVfWKWonG
 app.get("/api/stores", (req, res) => {
-  Store.find({}, (err, stores) => {
-    if (err) {
-      res.status(500).send(err);
-    } else {
-      res.status(200).send(stores);
-    }
-  });
+  const zipCode = req.query.zip_code;
+
+  const googleMapsURL = "https://maps.googleapis.com/maps/api/geocode/json";
+  axios
+    .get(googleMapsURL, {
+      params: {
+        address: zipCode,
+        key: ""
+      }
+    })
+    .then((response) => {
+      const data = response.data;
+      const coordinates = [
+        data.results[0].geometry.location.lng,
+        data.results[0].geometry.location.lat
+      ];
+
+      Store.find(
+        {
+          location: {
+            $near: {
+              $maxDistance: 3218,
+              $geometry: {
+                type: "Point",
+                coordinates: coordinates
+              }
+            }
+          }
+        },
+        (err, stores) => {
+          if (err) {
+            res.status(500).send(err);
+          } else {
+            res.status(200).send(stores);
+          }
+        }
+      );
+    })
+    .catch((error) => {
+      console.log(error);
+    });
 });
 
 app.delete("/api/stores", (req, res) => {
